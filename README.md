@@ -17,7 +17,7 @@ Welcome to my developer setup repository! This README will provide you with an i
 
 [Starship](https://starship.rs/) is the prompt that keeps my shell looking clean, minimal, and informative. Here's what I love about it:
 
-- **Customization**: Starship can be configured to display information such as your current git branch, package versions, time, and more. I've tailored it to include the details that matter most to me, and my configuration can be found in the [Starship.toml](#link-to-starship-config) file in this repository.
+- **Customization**: Starship can be configured to display information such as your current git branch, package versions, time, and more. I've tailored it to include the details that matter most to me, and my configuration can be found in the [Starship.toml]([#link-to-starship-config](https://github.com/Kelvin-Riker/dev_setup/blob/main/starship.toml)) file in this repository.
 
 - **Speed**: It's incredibly fast, ensuring that my shell prompt doesn't slow me down during development.
 
