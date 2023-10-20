@@ -8,11 +8,10 @@ Welcome to my developer setup repository! This README will provide you with an i
 
 - **Package Management**: I use [Packer.nvim](https://github.com/wbthomason/packer.nvim) for plugin management. My Neovim setup includes a carefully curated list of plugins that enhance my coding experience. The `init.lua` file in my Neovim configuration contains all the plugin configurations.
 
-- **Keybindings**: I've created custom keybindings for various tasks to streamline my workflow. You'll find these in my `init.lua` file as well.
+- **Keybindings**: I've created custom keybindings for various tasks to streamline my workflow. You'll find these in my `remap.lua` file as well.
 
-- **Themes**: I frequently switch between themes to keep my environment visually appealing. My current favorite is [Gruvbox](https://github.com/morhetz/gruvbox).
+- **Themes**: I frequently switch between themes to keep my environment visually appealing. My current favorite is [Tokyo Night](https://github.com/folke/tokyonight.nvim).
 
-For a comprehensive look at my Neovim setup, please check out my [dotfiles repository](#link-to-dotfiles) where you can find my Neovim configuration files.
 
 ## Starship
 
@@ -31,4 +30,4 @@ To set up your own development environment with Neovim, Starship, and Packer sim
 1. **Clone This Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/developer-setup.git
+   git clone https://github.com/kelvin-riker/dev_setup.git
